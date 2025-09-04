@@ -18,7 +18,8 @@ This app allows you to add, delete, and manage your daily tasks easily.
 
 Desktop & Mobile View:
 
-![ToDo App Screenshot](A_digital_screenshot_displays_a_To-Do_List_web_app.png)
+![ToDo App Screenshot](![Image](https://github.com/user-attachments/assets/8d561ebd-7015-479c-9fdd-df430a80ec18))
 
 
 ---
+

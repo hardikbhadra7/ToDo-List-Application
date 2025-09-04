@@ -1,23 +1,22 @@
-# 📝 To-Do App# 📝 To-Do App
+# 📝 To-Do List App
 
-A simple and responsive To-Do List Application built using HTML, CSS, and JavaScript.  
-This app allows you to add, delete, and manage your daily tasks easily.
+A simple **To-Do List application** built using **HTML, CSS, and JavaScript**.  
+This project helps in managing daily tasks efficiently by allowing users to **add, delete, and mark tasks as completed**.
 
 ---
 
 ## 🚀 Features
-- ➕ Add new tasks
-- ❌ Delete tasks
-- 🎨 Simple and clean UI
-- 📱 Responsive design (works on mobile & desktop)
-- ⚡ Fast and lightweight
+- Add new tasks dynamically.
+- Mark tasks as **completed**.
+- Delete tasks from the list.
+- Clean and responsive UI.
+- Data managed on the client-side using **JavaScript DOM manipulation**.
 
 ---
 
-## 📸 Screenshot
-
-Click the image below to view full size:
-
-[<img src="./A_digital_screenshot_displays_a_To-Do_List_web_app.png.jpeg" alt="To-Do App Screenshot" width="600">](./A_digital_screenshot_displays_a_To-Do_List_web_app.png.jpeg)
+## 🛠️ Technologies Used
+- **HTML** – Structure of the app.
+- **CSS** – Styling and layout.
+- **JavaScript** – Functionality (DOM manipulation & event handling).
 
 ---

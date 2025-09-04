@@ -20,4 +20,5 @@ Desktop & Mobile View:
 
 ![ToDo App Screenshot](A_digital_screenshot_displays_a_To-Do_List_web_app.png)
 
+
 ---
